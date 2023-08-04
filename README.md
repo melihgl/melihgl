@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://giphy.com/embed/ly8G39g1ujpNm" width="480" height="278" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/editingandlayout-ly8G39g1ujpNm">via GIPHY</a></p> width="500" height="320"/>
 
 ## Melih Gül Kimdir? <br/>
 1993'ün Ekim ayında, Edirne'de doğmuş olan bir beşer şaşardır, Melih. Edirne'de başlayan yaşamı Edirne'de devam etmektedir. Bu onu biraz sıkıyor olsa da... Onunla ilgili birtakım bilgiler de işte şunlardır:
