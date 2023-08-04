@@ -27,7 +27,7 @@ Bildiğim uygulamalar: MS Office uygulamaları, Photoshop, Canva, FileMaker Pro 
 ## Hobiler: <br/>
 Botanik ve astronomi disiplinleriyle hobi olarak ilgileniyorum. Bu ikisi dışında hayatın her alanına ilgim var. Bilimlerin keskin sınırlarla birbirlerinden ayrıldığı bir görüşten uzağım. Merak ettiğim her konuda öğrenmeye, bundan keyif almaya devam ediyorum. <br/>
 
-## Bildiğim Diller: <br/>
+## Bildiğim Dil ya da Teknolojiler: <br/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png"/>
