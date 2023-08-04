@@ -32,8 +32,9 @@ Botanik ve astronomi disiplinleriyle hobi olarak ilgileniyorum. Bu ikisi dışı
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png"/>
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> <br />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> <br/>
 
+<br/>
 ### Sosyal Medya:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/melihgl)
