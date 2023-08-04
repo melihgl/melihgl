@@ -31,14 +31,19 @@ Botanik ve astronomi disiplinleriyle hobi olarak ilgileniyorum. Bu ikisi dışı
 
 ### 🔧 Languages and Tools:
 
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> JavaScript
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png"/> C Language
+
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/> HTML
+
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/> HTML
+
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png"/> CSS
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
+
+
 <br />
 
 [instagram]: https://www.instagram.com/melih_son_surum/
