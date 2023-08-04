@@ -31,7 +31,7 @@ Botanik ve astronomi disiplinleriyle hobi olarak ilgileniyorum. Bu ikisi dışı
 
 ### 🔧 Languages and Tools:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> JavaScript
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> JavaScript
 
 
 <br />
