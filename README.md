@@ -18,6 +18,8 @@ I am knowledgeable in computer hardware, computer networking, content management
 Programming languages I know: C, HTML/CSS JavaScript (jQuery), T-SQL, VB.Net, VBA. <br/>
 Applications I know: MS Office applications, Photoshop, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
 
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="200" height="200" />
+
 ## Excavation, Survey and Museum Studies in the Archeology Profession <br/>
 2020-2022 İzmir Torbalı Mount Nif Excavation (Under the direction Doç. Dr. Müjde Peker). <br/>
 2020 İzmir Tire Archeology Museum Metal Finds Studies (Under the direction Prof. Dr. Daniş Baykan). <br/>
@@ -32,7 +34,3 @@ I am interested in the disciplines of botany and astronomy as a hobby. Apart fro
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> <br/>
-
-<br/>
-
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="300" height="300" />
