@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="350" height="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="350" height="380" />
 
 ## Who is Melih Gül?
 Melih was born in Edirne in October 1993. Here is some information about him:
@@ -10,8 +10,7 @@ _**2017-2021**_ Anadolu University Open Education Faculty **Philosophy Departmen
 _**2011-2017**_ Trakya University Faculty of Letters, **Department of Archeology** (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
 _**2009-2011**_ Ankara Abdullah-Mürşide Özünenek Anatolian High School, <br/> Department of Turkish-Mathematics (Diploma Date: 17.06.2011 / Diploma Number: 302). <br/>
 _**2007-2009**_ Edirne Yıldırım Beyazıt Anatolian High School, Turkish-Mathematics Department. <br/>
-_**2006-2007**_ Ankara Afşin Bey Primary School. <br/>
-_**1999-2006**_ Edirne Plevne Primary School. <br/>
+_**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey Primary School. <br/>
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="250" height="255" />
 
