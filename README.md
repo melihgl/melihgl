@@ -15,7 +15,7 @@ Melih was born in Edirne in October 1993. Here is some information about him:
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="300" height="350" />
 
-<pre> ## Computer skills <br/>
+## Computer skills <br/>
 I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, 
 Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. Although I am 
 mainly developing myself in the **Front End** area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, 
