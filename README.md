@@ -8,12 +8,12 @@ Melih was born in Edirne in October 1993. Here is some information about him:
 2018-2022 Trakya University, Institute of Social Sciences, Department of Archeology, Master's thesis titled **"Stylus in Anatolia from the 1st Millennium BC to the End of the Roman Imperial Period"** under the supervision of Prof. Dr. Daniş Baykan (Diploma Date: 22.06.2022 / Diploma Number: 2889). <br/>
 2017-2021 Anadolu University Open Education Faculty **Philosophy Department** (Diploma Date: 2021 / Diploma Number: 159843). <br/>
 2011-2017 Trakya University Faculty of Letters, **Department of Archeology** (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
-2009-2011 Ankara Abdullah-Mürşide Özünenek Anatolian High School, Department of Turkish-Mathematics (Diploma Date: 17.06.2011 / Diploma Number: 302). <br/>
+2009-2011 Ankara Abdullah-Mürşide Özünenek Anatolian High School, <br/> Department of Turkish-Mathematics (Diploma Date: 17.06.2011 / Diploma Number: 302). <br/>
 2007-2009 Edirne Yıldırım Beyazıt Anatolian High School, Turkish-Mathematics Department. <br/>
 2006-2007 Ankara Afşin Bey Primary School. <br/>
 1999-2006 Edirne Plevne Primary School. <br/>
 
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="280" height="310" />
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="250" height="275" />
 
 ## Computer skills <br/>
 &emsp; I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. 
