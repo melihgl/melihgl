@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="350" height="400" />
 
-## Who is Melih Gül? <br/>
+## Who is Melih Gül?
 Melih was born in Edirne in October 1993. Here is some information about him:
 
 ## Education <br/>
