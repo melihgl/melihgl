@@ -4,10 +4,10 @@
 Melih was born in Edirne in October 1993. Here is some information about him:
 
 ## Education <br/>
-_**2022-…**_ Trakya University, Vocational School of Technical Sciences, <u> **Computer Programming.** </u> <br/>
-_**2018-2022**_ Trakya University, Institute of Social Sciences, Department of Archeology, Master's thesis titled <u> **"Stylus in Anatolia from the 1st Millennium BC to the End of the Roman Imperial Period"** </u> under the supervision of Prof. Dr. Daniş Baykan (Diploma Date: 22.06.2022 / Diploma Number: 2889). <br/>
-_**2017-2021**_ Anadolu University Open Education Faculty <u> **Philosophy Department** </u> (Diploma Date: 2021 / Diploma Number: 159843). <br/>
-_**2011-2017**_ Trakya University Faculty of Letters, <u> **Department of Archeology** </u> (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
+_**2022-…**_ Trakya University, Vocational School of Technical Sciences, **Computer Programming.** <br/>
+_**2018-2022**_ Trakya University, Institute of Social Sciences, Department of Archeology, Master's thesis titled **"Stylus in Anatolia from the 1st Millennium BC to the End of the Roman Imperial Period"** under the supervision of Prof. Dr. Daniş Baykan (Diploma Date: 22.06.2022 / Diploma Number: 2889). <br/>
+_**2017-2021**_ Anadolu University Open Education Faculty **Philosophy Department** (Diploma Date: 2021 / Diploma Number: 159843). <br/>
+_**2011-2017**_ Trakya University Faculty of Letters, **Department of Archeology** (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
 _**2009-2011**_ Ankara Abdullah-Mürşide Özünenek Anatolian High School, <br/> Department of Turkish-Mathematics (Diploma Date: 17.06.2011 / Diploma Number: 302). <br/>
 _**2007-2009**_ Edirne Yıldırım Beyazıt Anatolian High School, Turkish-Mathematics Department. <br/>
 _**2006-2007**_ Ankara Afşin Bey Primary School. <br/>
@@ -17,11 +17,11 @@ _**1999-2006**_ Edirne Plevne Primary School. <br/>
 
 ## Computer skills <br/>
 &emsp; I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. 
-Although I am mainly developing myself in the <u>**Front End**</u> area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
+Although I am mainly developing myself in the **Front End** area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
 **Programming languages I know:** C, HTML/CSS JavaScript (jQuery), T-SQL, VB.Net, VBA. <br/>
 **Applications I know:** MS Office applications, Photoshop, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="400" height="450" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="350" height="450" />
 
 ## Excavation, Survey and Museum Studies in the Archeology Profession <br/>
 _**2020-2022**_ İzmir Torbalı Mount Nif Excavation (Under the direction Doç. Dr. Müjde Peker). <br/>
