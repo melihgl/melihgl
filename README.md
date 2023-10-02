@@ -13,12 +13,12 @@ Melih was born in Edirne in October 1993. Here is some information about him:
 2006-2007 Ankara Afşin Bey Primary School. <br/>
 1999-2006 Edirne Plevne Primary School. <br/>
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="300" height="350" />
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="300" height="350" />
 
-## Computer skills <br/>
-I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. Although I am mainly developing myself in the **Front End** area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
-Programming languages I know: C, HTML/CSS JavaScript (jQuery), T-SQL, VB.Net, VBA. <br/>
-Applications I know: MS Office applications, Photoshop, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
+  ## Computer skills <br/>
+  I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as        Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My   favorite subject to learn is the web world / web technology. Although I am mainly developing myself in the **Front End** area, I am       interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
+  Programming languages I know: C, HTML/CSS JavaScript (jQuery), T-SQL, VB.Net, VBA. <br/>
+  Applications I know: MS Office applications, Photoshop, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci        Resolve etc.). <br/>
 
 
 ## Excavation, Survey and Museum Studies in the Archeology Profession <br/>
