@@ -13,9 +13,9 @@ Melih was born in Edirne in October 1993. Here is some information about him:
 2006-2007 Ankara Afşin Bey Primary School. <br/>
 1999-2006 Edirne Plevne Primary School. <br/>
 
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="300" height="300" /> <br/>
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="300" height="300" />
 
-<br/>
+---
 
 ## Computer skills <br/>
 I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. Although I am mainly developing myself in the Front End area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
