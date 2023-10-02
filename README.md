@@ -33,4 +33,6 @@ I am interested in the disciplines of botany and astronomy as a hobby. Apart fro
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> <br/>
 
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="500" height="500" />
+<br/>
+
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="300" height="300" />
