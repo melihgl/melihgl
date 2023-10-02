@@ -21,7 +21,7 @@ Although I am mainly developing myself in the **Front End** area, I am intereste
 **Programming languages I know:** C, HTML/CSS JavaScript (jQuery), T-SQL, VB.Net, VBA. <br/>
 **Applications I know:** MS Office applications, Photoshop, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350" height="400" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400" height="450" />
 
 ## Excavation, Survey and Museum Studies in the Archeology Profession <br/>
 **2020-2022** İzmir Torbalı Mount Nif Excavation (Under the direction Doç. Dr. Müjde Peker). <br/>
