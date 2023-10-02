@@ -13,7 +13,7 @@ Melih was born in Edirne in October 1993. Here is some information about him:
 **2006-2007** Ankara Afşin Bey Primary School. <br/>
 **1999-2006** Edirne Plevne Primary School. <br/>
 
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="250" height="275" />
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="250" height="275" />
 
 ## Computer skills <br/>
 &emsp; I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. 
@@ -21,7 +21,7 @@ Although I am mainly developing myself in the **Front End** area, I am intereste
 **Programming languages I know:** C, HTML/CSS JavaScript (jQuery), T-SQL, VB.Net, VBA. <br/>
 **Applications I know:** MS Office applications, Photoshop, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400" height="450" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="400" height="450" />
 
 ## Excavation, Survey and Museum Studies in the Archeology Profession <br/>
 **2020-2022** İzmir Torbalı Mount Nif Excavation (Under the direction Doç. Dr. Müjde Peker). <br/>
