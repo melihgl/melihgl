@@ -17,8 +17,8 @@ _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey 
 ## Computer skills
 &emsp; I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. 
 Although I am mainly developing myself in the **Front End** area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
-**Programming languages I know:** C, HTML/CSS JavaScript (jQuery), T-SQL, VB.Net, VBA. <br/>
-**Applications I know:** MS Office applications, Photoshop, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
+**Programming languages I know:** C, HTML/CSS JavaScript (jQuery), PHP, T-SQL, VB.Net, VBA. <br/>
+**Applications I know:** MS Office applications, Adobe Photoshop, Adobe Animate, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="375" height="425" />
 
@@ -35,4 +35,5 @@ _**2018**_ Edirne Merkez Sinanköy Excavation (Under the direction of Prof. Dr. 
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/>
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png"/>
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> <br/>
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/> 
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/php/php.png"/> <br/>
