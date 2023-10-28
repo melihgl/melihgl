@@ -12,7 +12,7 @@ _**2009-2011**_ Ankara Abdullah-Mürşide Özünenek Anatolian High School, <br/
 _**2007-2009**_ Edirne Yıldırım Beyazıt Anatolian High School, Turkish-Mathematics Department. <br/>
 _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey Primary School. <br/>
 
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="250" height="255" />
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="250" height="275" />
 
 ## Computer skills
 &emsp; I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. 
