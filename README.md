@@ -19,7 +19,7 @@ _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey 
 Although I am mainly developing myself in the **Front End** area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
 **Programming languages I know:** C, HTML/CSS JavaScript (jQuery), PHP, T-SQL, VB.Net, VBA. <br/>
 **Applications I know:** MS Office applications, Adobe Photoshop, Adobe Animate, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
-**My Project:** I'm working on my **Smart Agriculture Automation** project. I am using MS SQL SERVER and VB.Net in this project.
+**My Project:** I'm working on my **Smart Agriculture Automation** project. I am using MS SQL Server and VB.Net in this project.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="375" height="425" />
 
