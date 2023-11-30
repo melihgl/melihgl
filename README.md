@@ -4,10 +4,10 @@
 Melih was born in Edirne in October 1993. Here is some information about him:
 
 ## Education
-_**2022-…**_ Trakya University, Vocational School of Technical Sciences, <u>**Computer Programming.**</u> <br/>
+_**2022-…**_ Trakya University, Vocational School of Technical Sciences, _**Computer Programming.**_ <br/>
 _**2018-2022**_ Trakya University, Institute of Social Sciences, Department of Archeology, Master's thesis titled **"Stylus in Anatolia from the 1st Millennium BC to the End of the Roman Imperial Period"** under the supervision of Prof. Dr. Daniş Baykan (Diploma Date: 22.06.2022 / Diploma Number: 2889). <br/>
-_**2017-2021**_ Anadolu University Open Education Faculty <u>**Philosophy Department**</u> (Diploma Date: 2021 / Diploma Number: 159843). <br/>
-_**2011-2017**_ Trakya University Faculty of Letters, <u>**Department of Archeology**</u> (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
+_**2017-2021**_ Anadolu University Open Education Faculty _**Philosophy Department**_ (Diploma Date: 2021 / Diploma Number: 159843). <br/>
+_**2011-2017**_ Trakya University Faculty of Letters, _**Department of Archeology**_ (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
 _**2009-2011**_ Ankara Abdullah-Mürşide Özünenek Anatolian High School, <br/> Department of Turkish-Mathematics (Diploma Date: 17.06.2011 / Diploma Number: 302). <br/>
 _**2007-2009**_ Edirne Yıldırım Beyazıt Anatolian High School, Turkish-Mathematics Department. <br/>
 _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey Primary School. <br/>
@@ -16,10 +16,10 @@ _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey 
 
 ## Computer skills
 &emsp; I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. 
-Although I am mainly developing myself in the <u>**Front End**</u> area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
+Although I am mainly developing myself in the _**Front End**_ area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
 **Programming languages I know:** C, HTML/CSS JavaScript (jQuery), PHP, T-SQL, VB.Net, VBA. <br/>
 **Applications I know:** MS Office applications, Adobe Photoshop, Adobe Animate, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
-**My Project:** I'm working on my <u>**Smart Agriculture Automation**</u> project. I am using MS SQL Server and VB.Net in this project. In the future, I aim to learn different languages and develop projects related to mobile development. Also, another goal of mine is to master the JavaScript language and various libraries / frameworks.
+**My Project:** I'm working on my _**Smart Agriculture Automation**_ project. I am using MS SQL Server and VB.Net in this project. In the future, I aim to learn different languages and develop projects related to mobile development. Also, another goal of mine is to master the JavaScript language and various libraries / frameworks.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="375" height="425" />
 
@@ -30,7 +30,7 @@ _**2019**_ Niğde Bor Kemerhisar Tyana Ancient City Excavation (Under the direct
 _**2018**_ Edirne Merkez Sinanköy Excavation (Under the direction of Prof. Dr. Engin Beksaç). <br/>
 
 ## Hobbies
-&emsp; I am interested in the disciplines of <u>**botany**</u> and <u>**astronomy**</u> as a hobby. Apart from these two, I am interested in every aspect of life. I am far from a view that the sciences are separated from each other by sharp boundaries. I continue to learn and enjoy everything I am curious about. <br/>
+&emsp; I am interested in the disciplines of _**botany**_ and _**astronomy**_ as a hobby. Apart from these two, I am interested in every aspect of life. I am far from a view that the sciences are separated from each other by sharp boundaries. I continue to learn and enjoy everything I am curious about. <br/>
 
 ## Languages or Technologies I Know
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png"/>
