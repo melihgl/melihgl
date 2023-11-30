@@ -12,7 +12,7 @@ _**2009-2011**_ Ankara Abdullah-Mürşide Özünenek Anatolian High School, <br/
 _**2007-2009**_ Edirne Yıldırım Beyazıt Anatolian High School, Turkish-Mathematics Department. <br/>
 _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey Primary School. <br/>
 
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="250" height="275" />
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="275" height="300" />
 
 ## Computer skills
 &emsp; I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. 
@@ -21,7 +21,7 @@ Although I am mainly developing myself in the **Front End** area, I am intereste
 **Applications I know:** MS Office applications, Adobe Photoshop, Adobe Animate, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
 **My Project:** I'm working on my **Smart Agriculture Automation** project. I am using MS SQL Server and VB.Net in this project. In the future, I aim to learn different languages and develop projects related to mobile development. Also, another goal of mine is to master the JavaScript language and various libraries / frameworks.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="400" height="450" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="375" height="425" />
 
 ## Excavation, Survey and Museum Studies in the Archeology Profession
 _**2020-2022**_ İzmir Torbalı Mount Nif Excavation (Under the direction Doç. Dr. Müjde Peker). <br/>
