@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="350" height="380" />
 
 ## Who is [Melih Gül](https://melihgul.com/)?
-Melih was born in Edirne in October 1993. Here is some information about him:
+Melih was born in Edirne in October 1993. You can find more details about him on [his website](https://melihgul.com/). Here is some information about him:
 
 ## Education
 _**2022-…**_ Trakya University, Vocational School of Technical Sciences, [_**Computer Programming.**_](https://tbmyo.trakya.edu.tr/pages/bilgisayar-programciligi-programi-tanitimi) <br/>
