@@ -25,9 +25,9 @@ Although I am mainly developing myself in the _**Front End**_ area, I am interes
 
 ## Excavation, Survey and Museum Studies in the Archeology Profession
 _**2020-2022**_ [İzmir Torbalı Mount Nif Excavation](https://www.nifolympos.com/) (Under the direction Doç. Dr. Müjde Peker). <br/>
-_**2020**_ İzmir Tire Archeology Museum Metal Finds Studies (Under the direction Prof. Dr. Daniş Baykan). <br/>
-_**2019**_ Niğde Bor Kemerhisar Tyana Ancient City Excavation (Under the direction of Prof. Dr. Osman Doğanay). <br/>
-_**2018**_ Edirne Merkez Sinanköy Excavation (Under the direction of Prof. Dr. Engin Beksaç). <br/>
+_**2020**_ [İzmir Tire Archeology Museum Metal Finds Studies](https://izmir.ktb.gov.tr/TR-77105/tire-muzesi.html) (Under the direction Prof. Dr. Daniş Baykan). <br/>
+_**2019**_ [Niğde Bor Kemerhisar Tyana Ancient City Excavation](https://arkeoloji.aksaray.edu.tr/tyana-kemerhisar--nigde-kazilari) (Under the direction of Prof. Dr. Osman Doğanay). <br/>
+_**2018**_ [Edirne Merkez Sinanköy Excavation](https://www.trakya.edu.tr/news/sinankoy-antik-yerlesim-alani-kazi-calismalarina-rektorumuzden-ziyaret) (Under the direction of Prof. Dr. Engin Beksaç). <br/>
 
 ## Hobbies
 &emsp; I am interested in the disciplines of [_**botany**_](https://www.melihbotanik.melihgul.com/) and [_**astronomy**_](http://www.astromelih.melihgul.com/) as a hobby. Apart from these two, I am interested in every aspect of life. I am far from a view that the sciences are separated from each other by sharp boundaries. I continue to learn and enjoy everything I am curious about. <br/>
