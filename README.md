@@ -46,3 +46,4 @@ _**2018**_ [Edirne Merkez Sinanköy Excavation](https://www.trakya.edu.tr/news/s
 
 [![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=melihgl)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melihgl)
+[![trophy](https://github-profile-trophy.vercel.app/?username=melihgl-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
