@@ -17,7 +17,7 @@ _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey 
 ## Computer skills
 &emsp; I am knowledgeable in computer hardware, computer networking, content management systems (I am knowledgeable in many CMS's such as Joomla, WordPress, Prestashop, Moodle, Drupal, etc.), software architectures, digital currency technologies (blockchain technology). My favorite subject to learn is the web world / web technology. 
 Although I am mainly developing myself in the _**Front End**_ area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
-**Programming languages I know:** C, HTML/CSS JavaScript (jQuery), PHP, T-SQL, VB.Net, VBA. <br/>
+**Programming languages I know:** C, [HTML/CSS](https://github.com/melihgl/MyWebSite_FirstVersion) JavaScript (jQuery), PHP, T-SQL, VB.Net, VBA. <br/>
 **Applications I know:** MS Office applications, Adobe Photoshop, Adobe Animate, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
 **My Project:** I'm working on my [_**Smart Agriculture Automation**_](https://github.com/melihgl/AkilliTarimOtomasyonu) project. I am using MS SQL Server and VB.Net in this project. In the future, I aim to learn different languages and develop projects related to mobile development. Also, another goal of mine is to master the JavaScript language and various libraries / frameworks.
 
