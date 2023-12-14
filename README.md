@@ -5,7 +5,7 @@ Melih was born in Edirne in October 1993. Here is some information about him:
 
 ## Education
 _**2022-…**_ Trakya University, Vocational School of Technical Sciences, _**Computer Programming.**_ <br/>
-_**2018-2022**_ Trakya University, Institute of Social Sciences, Department of Archeology, Master's thesis titled **"Stylus in Anatolia from the 1st Millennium BC to the End of the Roman Imperial Period"** under the supervision of Prof. Dr. Daniş Baykan (Diploma Date: 22.06.2022 / Diploma Number: 2889). <br/>
+_**2018-2022**_ Trakya University, Institute of Social Sciences, Department of Archeology, Master's thesis titled [**"Stylus in Anatolia from the 1st Millennium BC to the End of the Roman Imperial Period"**](https://dspace.trakya.edu.tr/xmlui/handle/trakya/8176?locale-attribute=en) under the supervision of Prof. Dr. Daniş Baykan (Diploma Date: 22.06.2022 / Diploma Number: 2889). <br/>
 _**2017-2021**_ Anadolu University Open Education Faculty _**Philosophy Department**_ (Diploma Date: 2021 / Diploma Number: 159843). <br/>
 _**2011-2017**_ Trakya University Faculty of Letters, _**Department of Archeology**_ (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
 _**2009-2011**_ Ankara Abdullah-Mürşide Özünenek Anatolian High School, <br/> Department of Turkish-Mathematics (Diploma Date: 17.06.2011 / Diploma Number: 302). <br/>
