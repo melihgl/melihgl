@@ -4,10 +4,10 @@
 Melih was born in Edirne in October 1993. Here is some information about him:
 
 ## Education
-_**2022-…**_ Trakya University, Vocational School of Technical Sciences, _**Computer Programming.**_ <br/>
+_**2022-…**_ Trakya University, Vocational School of Technical Sciences, [_**Computer Programming.**_](https://tbmyo.trakya.edu.tr/pages/bilgisayar-programciligi-programi-tanitimi) <br/>
 _**2018-2022**_ Trakya University, Institute of Social Sciences, Department of Archeology, Master's thesis titled [**"Stylus in Anatolia from the 1st Millennium BC to the End of the Roman Imperial Period"**](https://dspace.trakya.edu.tr/xmlui/handle/trakya/8176?locale-attribute=en) under the supervision of Prof. Dr. Daniş Baykan (Diploma Date: 22.06.2022 / Diploma Number: 2889). <br/>
-_**2017-2021**_ Anadolu University Open Education Faculty _**Philosophy Department**_ (Diploma Date: 2021 / Diploma Number: 159843). <br/>
-_**2011-2017**_ Trakya University Faculty of Letters, _**Department of Archeology**_ (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
+_**2017-2021**_ Anadolu University Open Education Faculty [_**Philosophy Department**_](https://www.anadolu.edu.tr/acikogretim/turkiye-programlari/acikogretim-sistemindeki-programlar/felsefe) (Diploma Date: 2021 / Diploma Number: 159843). <br/>
+_**2011-2017**_ Trakya University Faculty of Letters, [_**Department of Archeology**_](https://arkeoloji.trakya.edu.tr/) (Diploma Date: 23.06.2017 / Diploma Number: 2017-05-586). <br/>
 _**2009-2011**_ Ankara Abdullah-Mürşide Özünenek Anatolian High School, <br/> Department of Turkish-Mathematics (Diploma Date: 17.06.2011 / Diploma Number: 302). <br/>
 _**2007-2009**_ Edirne Yıldırım Beyazıt Anatolian High School, Turkish-Mathematics Department. <br/>
 _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey Primary School. <br/>
@@ -19,12 +19,12 @@ _**1999-2006**_ Edirne Plevne Primary School. _**2006-2007**_ Ankara Afşin Bey 
 Although I am mainly developing myself in the _**Front End**_ area, I am interested in all areas of the programming discipline. I continue to learn different languages, technologies, applications. <br/>
 **Programming languages I know:** C, HTML/CSS JavaScript (jQuery), PHP, T-SQL, VB.Net, VBA. <br/>
 **Applications I know:** MS Office applications, Adobe Photoshop, Adobe Animate, Canva, FileMaker Pro Advanced, various video editing applications (DaVinci Resolve etc.). <br/>
-**My Project:** I'm working on my _**Smart Agriculture Automation**_ project. I am using MS SQL Server and VB.Net in this project. In the future, I aim to learn different languages and develop projects related to mobile development. Also, another goal of mine is to master the JavaScript language and various libraries / frameworks.
+**My Project:** I'm working on my [_**Smart Agriculture Automation**_](https://github.com/melihgl/AkilliTarimOtomasyonu) project. I am using MS SQL Server and VB.Net in this project. In the future, I aim to learn different languages and develop projects related to mobile development. Also, another goal of mine is to master the JavaScript language and various libraries / frameworks.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="375" height="425" />
 
 ## Excavation, Survey and Museum Studies in the Archeology Profession
-_**2020-2022**_ İzmir Torbalı Mount Nif Excavation (Under the direction Doç. Dr. Müjde Peker). <br/>
+_**2020-2022**_ [İzmir Torbalı Mount Nif Excavation](https://www.nifolympos.com/) (Under the direction Doç. Dr. Müjde Peker). <br/>
 _**2020**_ İzmir Tire Archeology Museum Metal Finds Studies (Under the direction Prof. Dr. Daniş Baykan). <br/>
 _**2019**_ Niğde Bor Kemerhisar Tyana Ancient City Excavation (Under the direction of Prof. Dr. Osman Doğanay). <br/>
 _**2018**_ Edirne Merkez Sinanköy Excavation (Under the direction of Prof. Dr. Engin Beksaç). <br/>
