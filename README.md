@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=melihgl)
-![]({https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white})
+![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="350" height="380" />
 
