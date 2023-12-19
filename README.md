@@ -47,5 +47,5 @@ _**2018**_ [Edirne Merkez Sinanköy Excavation](https://www.trakya.edu.tr/news/s
 [![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=melihgl)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melihgl)
 [![trophy](https://github-profile-trophy.vercel.app/?username=melihgl)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/melihgl/langs)](https://githubtrends.io)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melihgl&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=melihgl&theme=dark&hide_border=true&border_radius=10&locale=tr)](https://git.io/streak-stats)
