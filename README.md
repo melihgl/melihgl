@@ -65,4 +65,5 @@ _**2018**_ [Edirne Merkez Sinanköy Excavation](https://www.trakya.edu.tr/news/s
 [![GitHub Streak](https://streak-stats.demolab.com?user=melihgl&theme=dark&hide_border=true&border_radius=10&locale=tr)](https://git.io/streak-stats)
 
 ## Please Support Me Here
-![BuyMeACoffee](https://www.buymeacoffee.com/melihgul)
+<a href="https://www.buymeacoffee.com/melihgul" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Using Markdown
