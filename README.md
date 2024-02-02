@@ -49,9 +49,9 @@ _**2018**_ [Edirne Merkez Sinanköy Excavation](https://www.trakya.edu.tr/news/s
 &emsp; I am interested in the disciplines of [_**botany**_](https://www.melihbotanik.melihgul.com/) and [_**astronomy**_](http://www.astromelih.melihgul.com/) as a hobby. Apart from these two, I am interested in every aspect of life. I am far from a view that the sciences are separated from each other by sharp boundaries. I continue to learn and enjoy everything I am curious about. <br/>
 
 ## My Other Website Works
--I build websites from time to time when I get bored. My last website: [_**Edirne Binevler**_](https://edirnebinevler.com/) <br/>
+I build websites from time to time when I get bored. My last website: [_**Edirne Binevler**_](https://edirnebinevler.com/) <br/>
 Another website I'm working on these days: [_**Anarres Kütüphanesi**_](https://anarreskutuphanesi.com/)
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="200" height="200" />
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif"/>
 
 ## Languages or Technologies I Know
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png"/>
